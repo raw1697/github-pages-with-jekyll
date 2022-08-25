@@ -1,4 +1,4 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "firstBlog"
+date: 2022-08-25
 ---
